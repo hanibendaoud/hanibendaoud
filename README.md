@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 About Me
-I'm **Hani**, a passionate **frontend developer** focused on building **beautiful, interactive, and responsive web applications**. I love creating user-friendly interfaces and learning new frontend technologies.
+I'm **Hani**, a passionate **frontend developer** focused on building **beautiful, interactive, and responsive web and mobile applications**. I enjoy creating user-friendly interfaces and learning new technologies across the stack.
 
 ---
 
@@ -15,18 +15,27 @@ I'm **Hani**, a passionate **frontend developer** focused on building **beautifu
 
 ### **Frontend Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,reactnative" />
 </p>
 
-### **Tools & Platforms**
+### **Backend & Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+</p>
+
+### **Authentication & Dev Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,google" />
 </p>
 
 ---
 
 ## 🔭 Currently Working On
-- Building interactive **React projects**
+- Building interactive **React & Next.js projects**
+- Developing **React Native mobile apps**
+- Implementing **backend APIs** with Express.js
+- Working with **PostgreSQL + PostGIS** and **MongoDB** for data storage and chat features
+- Implementing **OAuth 2.0 / OIDC authentication** with Google SSO
 - Exploring **modern UI/UX design** and **animations**
 - Improving **responsive web designs** and **performance**
 
@@ -35,7 +44,8 @@ I'm **Hani**, a passionate **frontend developer** focused on building **beautifu
 ## 🌱 Currently Learning
 - Advanced **React features** (hooks, context, router)
 - **TypeScript** for type-safe coding
-- **Frontend performance optimization**
+- **Frontend and backend performance optimization**
+- Full-stack integration patterns
 
 ---
 
@@ -45,8 +55,8 @@ I'm **Hani**, a passionate **frontend developer** focused on building **beautifu
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>⚛️ React Portfolio</h3>
-      <img src="https://skillicons.dev/icons?i=react" width="60" />
+      <h3>⚛️ React & Next.js Portfolio</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs" width="60" />
       <p>My personal portfolio showcasing my projects and skills.</p>
     </td>
     <td align="center" width="50%">
@@ -57,14 +67,14 @@ I'm **Hani**, a passionate **frontend developer** focused on building **beautifu
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🖌️ Interactive UI Components</h3>
-      <img src="https://skillicons.dev/icons?i=react,tailwind" width="60" />
-      <p>Reusable React components with clean UI and animations.</p>
+      <h3>📱 React Native Apps</h3>
+      <img src="https://skillicons.dev/icons?i=reactnative" width="60" />
+      <p>Cross-platform mobile apps with clean UI and functionality.</p>
     </td>
     <td align="center" width="50%">
-      <h3>💡 Fun Frontend Experiments</h3>
-      <img src="https://skillicons.dev/icons?i=js,html,css" width="60" />
-      <p>Creative mini-projects to test new JS/CSS techniques.</p>
+      <h3>💡 Full-Stack Experiments</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" width="60" />
+      <p>APIs, databases, and authentication experiments using modern stacks.</p>
     </td>
   </tr>
 </table>
@@ -76,7 +86,7 @@ I'm **Hani**, a passionate **frontend developer** focused on building **beautifu
 ## ⌨️ Animated Introduction
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00B3FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Hani+Bendaoud;Frontend+Developer+%7C+React+%7C+UI%2FUX+Enthusiast;Always+Building+Interactive+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00B3FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Hani+Bendaoud;Frontend+%7C+React+%7C+UI%2FUX+Enthusiast;Always+Building+Interactive+Apps" />
 
 </div>
 
@@ -95,7 +105,7 @@ I'm **Hani**, a passionate **frontend developer** focused on building **beautifu
 
 ## 📫 Contact Me
 - Email: **bendaoudhani6@gmail.com**
-- LinkedIn: *[(https://www.linkedin.com/in/hani-bendaoud/)](hani-bendaoud)*
+- LinkedIn: [https://www.linkedin.com/in/hani-bendaoud/](https://www.linkedin.com/in/hani-bendaoud/)
 
 ---
 
