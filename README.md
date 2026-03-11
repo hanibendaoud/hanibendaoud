@@ -7,74 +7,64 @@
 ---
 
 ## 🌟 About Me
-I'm **Hani**, a passionate **frontend developer** focused on building **beautiful, interactive, and responsive web and mobile applications**. I enjoy creating user-friendly interfaces and learning new technologies across the stack.
+I'm **Hani**, a **Computer Science Engineering Student** at ESI SBA and a passionate **Full-Stack Software Developer**. I bridge the gap between strong theoretical computer science fundamentals (algorithms, software architecture) and modern application development. I enjoy designing robust systems and bringing them to life through intuitive interfaces.
 
 ---
 
 ## 🚀 Skills & Technologies
 
-### **Frontend Languages & Frameworks**
+### **Computer Science & Architecture**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,reactnative" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,c,python" />
+  <img src="https://img.shields.io/badge/PlantUML-Software_Design-blue?style=flat-square&logo=uml" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-CS_Fundamentals-success?style=flat-square" />
 </p>
 
 ### **Backend & Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,fastapi,nodejs,express" />
 </p>
 
-### **Authentication & Dev Tools**
+### **Frontend & Mobile**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,google" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind" />
 </p>
 
 ---
 
 ## 🔭 Currently Working On
-- Building interactive **React & Next.js projects**
-- Developing **React Native mobile apps**
-- Implementing **backend APIs** with Express.js
-- Working with **PostgreSQL + PostGIS** and **MongoDB** for data storage and chat features
-- Implementing **OAuth 2.0 / OIDC authentication** with Google SSO
-- Exploring **modern UI/UX design** and **animations**
-- Improving **responsive web designs** and **performance**
+- 🍎 **Matermich ("Partageons plus. Gaspillons moins.")**: Architecting and developing a comprehensive community food donation platform. Building the mobile app for donors/beneficiaries (React Native) and the admin web dashboard (React), powered by a robust backend (Express/FastAPI & PostgreSQL).
+- ⚙️ **Computer Science Fundamentals**: Deepening my knowledge in **Operations Research**, advanced **Data Structures**, and **Operating Systems** (Linux process management).
+- 📐 **Software Architecture**: Designing complex UML sequence and class diagrams (using PlantUML) for scalable information systems.
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **React features** (hooks, context, router)
-- **TypeScript** for type-safe coding
-- **Frontend and backend performance optimization**
-- Full-stack integration patterns
-
----
-
-## 🧩 Projects Grid
+## 🧩 Featured Projects
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>⚛️ React & Next.js Portfolio</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs" width="60" />
-      <p>My personal portfolio showcasing my projects and skills.</p>
+      <h3>🍎 Matermich (Food Donation Platform)</h3>
+      <img src="https://skillicons.dev/icons?i=reactnative,postgres,fastapi" width="60" />
+      <p>Full-stack solidarity platform. Complex relational DB design, REST API, and cross-platform mobile frontend.</p>
     </td>
     <td align="center" width="50%">
-      <h3>🎨 Landing Page Designs</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,js" width="60" />
-      <p>Responsive landing pages with modern UI and animations.</p>
+      <h3>⚙️ CS Fundamentals & Algorithms</h3>
+      <img src="https://skillicons.dev/icons?i=c,python,linux" width="60" />
+      <p>Implementations of advanced data structures (graphs, trees), sorting algorithms, and OS scripting.</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>📱 React Native Apps</h3>
-      <img src="https://skillicons.dev/icons?i=reactnative" width="60" />
-      <p>Cross-platform mobile apps with clean UI and functionality.</p>
+      <h3>⚛️ Modern Web Applications</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" width="60" />
+      <p>Interactive, responsive, and performant web interfaces with modern UI/UX practices.</p>
     </td>
     <td align="center" width="50%">
-      <h3>💡 Full-Stack Experiments</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb" width="60" />
-      <p>APIs, databases, and authentication experiments using modern stacks.</p>
+      <h3>📐 System Design & Modeling</h3>
+      <img src="https://img.shields.io/badge/UML-PlantUML-blue?style=for-the-badge" width="80" />
+      <p>Database normalization (SQL) and object-oriented analysis and design repositories.</p>
     </td>
   </tr>
 </table>
@@ -86,7 +76,7 @@ I'm **Hani**, a passionate **frontend developer** focused on building **beautifu
 ## ⌨️ Animated Introduction
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00B3FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+Hani+Bendaoud;Frontend+%7C+React+%7C+UI%2FUX+Enthusiast;Always+Building+Interactive+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00B3FF&center=true&vCenter=true&width=600&lines=CS+Engineering+Student+%40+ESI;Full-Stack+Developer;Passionate+about+Algorithms+%26+Architecture;Building+Matermich+Platform" />
 
 </div>
 
@@ -106,16 +96,6 @@ I'm **Hani**, a passionate **frontend developer** focused on building **beautifu
 ## 📫 Contact Me
 - Email: **bendaoudhani6@gmail.com**
 - LinkedIn: [https://www.linkedin.com/in/hani-bendaoud/](https://www.linkedin.com/in/hani-bendaoud/)
-
----
-
-## 🌓 Dark/Light Mode Friendly Badges
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Theme-Dark-4c8eda?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Theme-Light-blue?style=for-the-badge" />
-  </picture>
-</p>
 
 ---
 
